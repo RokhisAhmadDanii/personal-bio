@@ -52,7 +52,7 @@ module.exports = {
         permanent: true,
       },
       {
-        source: '/pinterest',
+        source: '/whatsapp',
         destination: 'https://id.pinterest.com/romanromannya',
         permanent: true,
       },
