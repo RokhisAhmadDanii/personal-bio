@@ -37,7 +37,7 @@ module.exports = {
         permanent: true,
       },
       {
-        source: '/instagram',
+        source: '/whatsapp',
         destination: 'https://instagram.com/dani_alguero',
         permanent: true,
       },
