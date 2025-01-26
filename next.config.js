@@ -53,7 +53,7 @@ module.exports = {
       },
       {
         source: '/whatsapp',
-        destination: 'https://id.pinterest.com/romanromannya',
+        destination: 'https://wa.me/6285194739970',
         permanent: true,
       },
       {
