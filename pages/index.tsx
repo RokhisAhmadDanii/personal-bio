@@ -2,7 +2,7 @@ import { NowPlaying } from "../components";
 import Image from "next/image";
 import Banners from "../components/Banner";
 
-const name = "L RMN";
+const name = "EROZE";
 const belowLink = "いつか、私がヒトじゃなくなっても";
 /*const bio = "Blogger | Dreamer | Observer 🗿";*/
 
@@ -372,9 +372,9 @@ export default function Home() {
             <div className="flex items-center justify-center rounded-full bg-primary bg-opacity-90 text-xs font-medium text-banner">
               <footer>
                 <div className="container mx-auto text-center">
-                  Made by TRAGIC in BOGOR
+                  Made by EROZE in LAMPUNG
                   <p className="text-gray text-s">
-                    © 2023 L RMN. All rights reserved.
+                    © 2023 EROZE. All rights reserved.
                   </p>
                 </div>
               </footer>
