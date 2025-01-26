@@ -38,32 +38,22 @@ module.exports = {
       },
       {
         source: '/instagram',
-        destination: 'https://instagram.com/romanroman.nya',
+        destination: 'https://instagram.com/dani_alguero',
         permanent: true,
       },
       {
         source: '/github',
-        destination: 'https://github.com/lrmn7',
+        destination: 'https://github.com/RokhisAhmadDanii',
         permanent: true,
       },
       {
         source: '/spotify',
-        destination: 'https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/',
+        destination: 'https://open.spotify.com/playlist/1VnNEKTBgEnZhILMnLuimF?si=wRkd6b5FQz2kf_0RMqUZpw&pi=Xr_zuo9gTLCMW',
         permanent: true,
       },
       {
-        source: '/pinterest',
-        destination: 'https://id.pinterest.com/romanromannya',
-        permanent: true,
-      },
-      {
-        source: '/patreon',
-        destination: 'https://www.patreon.com/mewwme',
-        permanent: true,
-      },
-      {
-        source: '/madebytragic',
-        destination: 'https://discord.gg/6EXgrmtkPX',
+        source: '/whatsapp',
+        destination: 'https://wa.me/6285194739970',
         permanent: true,
       },
     ];
